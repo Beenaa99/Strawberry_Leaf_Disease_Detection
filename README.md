@@ -11,7 +11,6 @@ This project focuses on the detection and classification of various diseases in 
 - [Data Augmentation](#data-augmentation)
 - [Model Training](#model-training)
 - [Results](#results)
-- [Contributing](#contributing)
 
 ## Introduction
 
@@ -54,8 +53,6 @@ Details on the specific architecture, training procedures, and hyperparameters w
 
 Quantitative and qualitative results of the model performance will be documented. This includes metrics such as accuracy, precision, recall, and F1-score, as well as visualizations of the model's predictions on sample images.
 
-## Contributing
 
-Contributions are welcome! Please submit a pull request or open an issue to discuss any changes. Contributions can include improvements to the model, better data augmentation techniques, or enhancements to the EDA process.
 
 
